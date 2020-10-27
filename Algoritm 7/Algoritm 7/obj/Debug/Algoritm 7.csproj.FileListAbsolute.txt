@@ -1,0 +1,7 @@
+C:\Users\User\Documents\ITMO\ITMO.Homework.Algoritm7\Algoritm 7\Algoritm 7\bin\Debug\Algoritm 7.exe.config
+C:\Users\User\Documents\ITMO\ITMO.Homework.Algoritm7\Algoritm 7\Algoritm 7\bin\Debug\Algoritm 7.exe
+C:\Users\User\Documents\ITMO\ITMO.Homework.Algoritm7\Algoritm 7\Algoritm 7\bin\Debug\Algoritm 7.pdb
+C:\Users\User\Documents\ITMO\ITMO.Homework.Algoritm7\Algoritm 7\Algoritm 7\obj\Debug\Algoritm 7.csprojAssemblyReference.cache
+C:\Users\User\Documents\ITMO\ITMO.Homework.Algoritm7\Algoritm 7\Algoritm 7\obj\Debug\Algoritm 7.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ITMO\ITMO.Homework.Algoritm7\Algoritm 7\Algoritm 7\obj\Debug\Algoritm 7.exe
+C:\Users\User\Documents\ITMO\ITMO.Homework.Algoritm7\Algoritm 7\Algoritm 7\obj\Debug\Algoritm 7.pdb
