@@ -40,9 +40,9 @@ namespace Algoritm_7
 
 
 
-            catch (FormatException ex)
+            catch
             {
-                Console.WriteLine("Вы ввели не число. {0}", ex.Message);
+                Console.WriteLine("Вы ввели не число.");
                 Console.WriteLine("\nПрограмма завершена с ошибкой, повторите действия..");
             }
             finally
